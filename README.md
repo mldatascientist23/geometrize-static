@@ -4,7 +4,7 @@ Welcome to the **static version** of the [GeoMagic](https://github.com/mldatasci
 
 ## 🚀 Live Demo
 
-👉 Visit the GitHub Pages site here: [https://mldatascientist23.github.io/geometrize-static/](https://mldatascientist23.github.io/geometrize-in-python)
+👉 Visit the GitHub Pages site here: [https://mldatascientist23.github.io/geometrize-static/](https://mldatascientist23.github.io/geometrize-static/)
 
 ## 📂 Project Structure
 
